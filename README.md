@@ -2,7 +2,7 @@
 
 ### Atualmente, eu sou estudante de Sistemas de Informação pela Universidade Federal do Piauí.
 
-Como um bom autodidata, uso o tempo livre para aprender o máximo possível do desenvolvimento web. HTML, CSS, Javascript é o foco principal atualmente.
+Como um bom autodidata, uso o tempo livre para aprender o máximo possivel. Python é o foco principal atualmente.
 
 ### Quer saber o que eu ando fazendo?? Tenho alguns repositórios públicos para você, corre lá.
 
