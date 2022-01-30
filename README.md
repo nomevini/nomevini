@@ -1,21 +1,30 @@
-# Olá, eu sou Vinícius de Sousa Carvalho :stuck_out_tongue_winking_eye:
+# Vinícius de Sousa Carvalho
 
-### Atualmente, eu sou estudante de Sistemas de Informação pela Universidade Federal do Piauí.
+##
 
-Como um bom autodidata, uso o tempo livre para aprender o máximo possível do desenvolvimento web. HTML, CSS, Javascript é o foco principal atualmente.
+<br>
 
-### Quer saber o que eu ando fazendo?? Tenho alguns repositórios públicos para você, corre lá.
+<div align="center">
+  <div>
+  <a href="https://www.linkedin.com/in/nomevini/" target="_blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href = "mailto:sousav387@gmail.com"><img align="center" src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "https://twitter.com/nome_vini"><img align="center" src="https://img.shields.io/badge/-Twitter-%230077B5?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
+ </div>
+ 
+ <br>
+ 
+ <div>
+  <img align="center" alt="Vini-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Vini-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Vini-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Vini-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+</div>
+</div>
 
-Estou sempre em busca de um novo desafio, então se tá na stack citada, já tô louco para participar :grin:
+ ##
 
-Meu Email pra contato é **sousav387@gmail.com**
-
-:dart:	Experiências você pode encontrar clincando aqui :point_down:	
-- https://www.linkedin.com/in/vin%C3%ADcius-de-sousa-carvalho-b132bb153/
-
-Meu Email pra contato é **sousav387@gmail.com**
-
-Contacte-me também pelo instagram - https://www.instagram.com/viniciussousa891/
-
-<p align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=viniciussousa891&show_icons=true" alt="viniciussousa891" /> </p>
+<div align="center">
+  <a href="https://github.com/viniciussousa891">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=viniciussousa891&show_icons=true&theme=white&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciussousa891&layout=compact&langs_count=7&theme=white"/>
+</div>
