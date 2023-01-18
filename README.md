@@ -1,7 +1,7 @@
 # Olá, eu sou o Vinícius!
 <br>
 
-> 💻 Especializando-se em Front-End (HTML, CSS, JavaScript, React).<br>
+> 💻 Especializando-se em Back-End (Python, Django, AWS, Docker).<br>
 > 🎓 Bacharelando em Sistemas de Informação na UFPI.<br>
 
 ##
