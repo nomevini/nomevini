@@ -5,16 +5,14 @@
 > 🎓 Bacharelando em Sistemas de Informação na UFPI.<br>
 
 ##
-
-<div>
+ 
+<div align="center" >
   <a href="https://github.com/nomevini">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nomevini&show_icons=true&theme=white&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nomevini&layout=compact&langs_count=7&theme=white"/>
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=nomevini&show_icons=true&theme=transparent" />
+  <img width="44%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nomevini&hide_progress=true&theme=transparent" /> 
+  
 </div>
   
-
-  
-
 
 ## Social
 <div>
