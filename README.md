@@ -3,7 +3,7 @@
 👋 Olá! Sou Vinícius, um entusiasta do desenvolvimento backend com foco em Node.js. Estudo programação desde 2020. Atualmente, sou estudante de Sistemas de Informação na Universidade Federal do Piauí, realizando pesquisas na área de visão computacional.
 <br>
 
-> 💻 Especializando-se em Back-End (JavaScript, NodeJs, AWS, Docker).<br>
+> 💻 Especializando-se em Back-End (JavaScript, NodeJs).<br>
 > 🎓 Bacharelando em Sistemas de Informação na UFPI.<br>
 
 ##
@@ -27,11 +27,15 @@
   
   ## Linguagens, Frameworks e Ferramentas
  <div>
+  
   <img align="center" alt="Vini-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="Vini-postgresDQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="Vini-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Vini-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
   <img align="center" alt="Vini-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Vini-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Vini-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  
 </div>
 
  
