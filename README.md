@@ -3,7 +3,7 @@
 👋 Olá! Sou Vinícius, um entusiasta do desenvolvimento web com foco em React e Nodejs. Estudo programação desde 2020. Atualmente, sou estudante de Sistemas de Informação na Universidade Federal do Piauí, realizando pesquisas na área de visão computacional.
 <br>
 
-> 💻 Especializando-se em Desenvolvimento Web (React, NodeJs).<br>
+> 💻 Especializando-se em Desenvolvimento Web.<br>
 > 🎓 Bacharelando em Sistemas de Informação na UFPI.<br>
 
 ##
