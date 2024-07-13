@@ -1,6 +1,6 @@
-# Vinícius de Sousa Carvalho - Desenvolvedor Fullstack
+# Vinícius de Sousa Carvalho - Desenvolvedor Backend
 
-👋 Olá! Sou Vinícius, um entusiasta do desenvolvimento web com foco em React e Nodejs. Estudo programação desde 2020. Atualmente, sou estudante de Sistemas de Informação na Universidade Federal do Piauí, realizando pesquisas na área de visão computacional.
+👋 Olá! Sou Vinícius, um entusiasta do desenvolvimento web backend com foco em Nodejs. Estudo programação desde 2020. Atualmente, sou estudante de Sistemas de Informação na Universidade Federal do Piauí, realizando pesquisas na área de visão computacional.
 <br>
 
 > 💻 Especializando-se em Desenvolvimento Web.<br>
