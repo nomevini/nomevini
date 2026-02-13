@@ -1,20 +1,12 @@
 # Vinícius de Sousa Carvalho - Desenvolvedor Backend
 
-👋 Olá! Sou Vinícius, um entusiasta do desenvolvimento web backend com foco em Nodejs. Estudo programação desde 2020. Atualmente, sou estudante de Sistemas de Informação na Universidade Federal do Piauí, realizando pesquisas na área de visão computacional.
+👋 Olá! Sou Vinícius, desenvolvedor de software com experiência profissional em desenvolvimento desktop utilizando Delphi. Atualmente trabalho na Nelogica no time de sustentação, atuando na manutenção e evolução de aplicações.
+
+💻 No momento, estou expandindo meus conhecimentos para desenvolvimento web, estudando Java e React com foco em backend e arquitetura de sistemas.
 <br>
 
-> 💻 Especializando-se em Desenvolvimento Web.<br>
-> 🎓 Bacharelando em Sistemas de Informação na UFPI.<br>
-
-##
- 
-<div align="center" >
-  <a href="https://github.com/nomevini">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=nomevini&show_icons=true&theme=transparent" />
-  <img width="44%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nomevini&hide_progress=true&theme=transparent" /> 
-  
-</div>
-  
+> 🚀 Em transição para o ecossistema de desenvolvimento web.<br>
+> 📚 Estudando Java, React e boas práticas de engenharia de software.<br>
 
 ## Social
 <div>
