@@ -1,12 +1,12 @@
-# Vinícius de Sousa Carvalho - Desenvolvedor Backend
+# Vinícius de Sousa Carvalho - Desenvolvedor de Software
 
-👋 Olá! Sou Vinícius, desenvolvedor de software com experiência profissional em desenvolvimento desktop utilizando Delphi. Atualmente trabalho na Nelogica no time de sustentação, atuando na manutenção e evolução de aplicações.
+👋 Olá! Sou Vinícius, desenvolvedor de software com experiência profissional em desenvolvimento web e desktop utilizando Delphi.
 
-💻 No momento, estou expandindo meus conhecimentos para desenvolvimento web, estudando Java e React com foco em backend e arquitetura de sistemas.
+💻 No momento, estou expandindo meus conhecimentos para desenvolvimento web, estudando Java e Angular com foco em backend e arquitetura de sistemas.
 <br>
 
-> 🚀 Em transição para o ecossistema de desenvolvimento web.<br>
-> 📚 Estudando Java, React e boas práticas de engenharia de software.<br>
+> 🚀 Em busca das melhores práticas de desenvolvimento.<br>
+> 📚 Estudando Java, Angular e boas práticas de engenharia de software.<br>
 
 ## Social
 <div>
@@ -17,20 +17,19 @@
  </div>
 
   
-  ## Linguagens, Frameworks e Ferramentas
- <div>
-  
-  <img align="center" alt="Vini-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="Vini-postgresDQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
-  <img align="center" alt="Vini-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Vini-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
+## Linguagens, Frameworks e Ferramentas
+<div>
+
+  <img align="center" alt="Vini-Delphi" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/delphi/delphi-original.svg">
+  <img align="center" alt="Vini-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="Vini-Angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
+
+  <img align="center" alt="Vini-PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+  <img align="center" alt="Vini-TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
   <img align="center" alt="Vini-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Vini-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Vini-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   
 </div>
 
- 
 <br>
-
-
