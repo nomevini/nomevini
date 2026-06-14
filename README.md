@@ -1,12 +1,12 @@
-# Vinícius de Sousa Carvalho - Desenvolvedor de Software
+# Vinícius de Sousa Carvalho - Software Engineer
 
-👋 Olá! Sou Vinícius, desenvolvedor de software com experiência profissional em desenvolvimento web e desktop utilizando Delphi.
+👋 Hi! I'm Vinícius, a software engineer with professional experience in web and desktop development using Delphi.
 
-💻 No momento, estou expandindo meus conhecimentos para desenvolvimento web, estudando Java e React com foco em arquitetura de sistemas.
+💻 Currently, I am expanding my skills in web development, studying Java and React with a focus on system architecture.
 <br>
 
-> 🚀 Em busca das melhores práticas de desenvolvimento.<br>
-> 📚 Estudando Java, React e boas práticas de engenharia de software.<br>
+> 🚀 Passionate about software development best practices. <br>
+> 📚 Currently studying Java, React, and software engineering principles.<br>
 
 ## Social
 <div>
@@ -16,7 +16,7 @@
   <a href ="https://twitter.com/nome_vini" target="_blank"><img align="center" src="https://img.shields.io/badge/-Twitter-%230077B5?style=for-the-badge&logo=twitter&logoColor=white" ></a>
  </div>
 
-## Linguagens, Frameworks e Ferramentas
+## Languages, Frameworks, and Tools
 
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/delphi/delphi-original.svg" width="40" />
